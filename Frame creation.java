@@ -26,7 +26,6 @@ class Chootu extends Frame implements ActionListener
 	add(b1);
 	add(b2);
 	b.addActionListener(this);
-	
 	}
 	
 
